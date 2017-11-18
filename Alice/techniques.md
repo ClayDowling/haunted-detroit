@@ -14,7 +14,7 @@ Apply -2 plus weapon size modifiers below.
 
 ### Defense
 
-One successful srike, roll quick contest of weapon skills.  Either party may choose to roll against ST instead, missile weapons should defend against disarm with DX rolls.
+On a successful strike, roll quick contest of weapon skills.  Either party may choose to roll against ST instead, missile weapons should defend against disarm with DX rolls.
 
 Attacked party gets +2 if using a two handed weapon.
 
