@@ -1,0 +1,42 @@
+# Speed for the Speed God
+
+![1969 Pontiac Trans Am Convertible](1969_trans_am_400_convertible.jpg)
+
+Shelby, the God of Speed, has a mission for Jimmie, to recover the sacred red 1969 Pontiac Trans Am Convertible which was stolen from him.  It is currently in the possession of Rodney Strange, leader of an apostate speed cult.  The car is sitting in his private showroom.
+
+Jimmy's mission has two parts:
+
+- The car needs to be involved in a high speed chase to resanctify it after being driven by an apostate.
+- It needs to be returned to Shelby's Allen Park garage.
+
+## In Media Res
+
+Jimmy made a clean getaway, and is getting a couple dogs and a cup of coffee in an all night diner.  Alice is also there, drinking a cup of coffee and minding her own damned business.  That's when the six guys in the driving jackets, mirrored shades, weighted driving gloves, and boots come in.  They don't speak, they just pound on people and drive.
+
+### Cultists
+
+| Trait          | Level |      |
+| -------------- | ----- | ---- |
+| HP             | 12    |      |
+| Brass Knuckles | 14    | 1d-2 |
+| Driving        | 14    |      |
+
+## Flight
+
+There's too many guys to fight, and if the PCs prevail more cultists will show up.  Normally there'd be a risk of cops, but this is Detroit and they've got bigger fish to fry.  So running like hell is the only option.  Alice's car is parked at the curb, and that's denied by the cultists, but Jimmy had to park the hot Trans Am out back, because he's not dumb enough to park a hot car on the street.
+
+The cultists are in three mustang GTs (Hawaiian Blue, Black, and Red).  Top speed 190 mph
+
+1969 Pontiac Trans Am 400: Top Speed 120mph, 0-60 in 6.4s
+
+The PCs are frankly screwed, so it's going to take a bit of ingenuity to pull this off.
+
+They can expect several rounds of head start as the cultists try to follow them.  The cultists might also be badly beaten and bruised, which could affect their driving ability.
+
+## The Body On The Hood
+
+At some point it will be necessary to return to pick up Alice's car.  There will be a body on the hood of the car.  The corpse belonged to Orlando Swanson, a pimp who was killed by a former prostitute, [Syd Winters](../World/syd.md).  By the time Alice can get back, there are cops on the scene, but the body is still there.
+
+A little examination will reveal that he can't be removed just yet, because he's pinned to the hood by the very large knife through his throat.  There's blood everywhere.
+
+Spirit assisted night vision, or commentary by a spirit, will note a lot of demon effluvia in the area.  There wasn't a demon here, but something tainted heavily by a demon.
