@@ -7,13 +7,13 @@ Shelby, the God of Speed, has a mission for Jimmie, to recover the sacred red 19
 Jimmy's mission has two parts:
 
 - The car needs to be involved in a high speed chase to resanctify it after being driven by an apostate.
-- It needs to be returned to Shelby's Allen Park garage.
+- It needs to be returned to Shelby's Allen Park garage with Jimmy in it.
 
 ## In Media Res
 
 Jimmy made a clean getaway, and is getting a couple dogs and a cup of coffee in an all night diner.  Alice is also there, drinking a cup of coffee and minding her own damned business.  That's when the six guys in the driving jackets, mirrored shades, weighted driving gloves, and boots come in.  They don't speak, they just pound on people and drive.
 
-### Cultists
+### The Wheel Men (Cultists)
 
 | Trait          | Level |      |
 | -------------- | ----- | ---- |
@@ -33,6 +33,12 @@ The PCs are frankly screwed, so it's going to take a bit of ingenuity to pull th
 
 They can expect several rounds of head start as the cultists try to follow them.  The cultists might also be badly beaten and bruised, which could affect their driving ability.
 
+## Going to Ground
+
+The heros won't escape in a straight chase.  Hiding for a while is a solid plan.  A prayer to Shelby (which looks a lot like calling his garage) will summon the help of [Dagmar](../World/dagmar.md), his servant.
+
+Dagmar can help them up until they get the car to the garage, but not after, and Jimmy needs to be in the car when they get there.
+
 ## The Body On The Hood
 
 At some point it will be necessary to return to pick up Alice's car.  There will be a body on the hood of the car.  The corpse belonged to Orlando Swanson, a pimp who was killed by a former prostitute, [Syd Winters](../World/syd.md).  By the time Alice can get back, there are cops on the scene, but the body is still there.
@@ -40,3 +46,11 @@ At some point it will be necessary to return to pick up Alice's car.  There will
 A little examination will reveal that he can't be removed just yet, because he's pinned to the hood by the very large knife through his throat.  There's blood everywhere.
 
 Spirit assisted night vision, or commentary by a spirit, will note a lot of demon effluvia in the area.  There wasn't a demon here, but something tainted heavily by a demon.
+
+## The Boys are Back In Town
+
+The speed cultists will be aware that Jimmy took the Trans Am.  They will be sitting on his car as well as at his apartment when he goes back.  Hijinx will ensue.
+
+## Syd In The Club
+
+When at the City Club, Geordie will notice someone with the same taint as he smelled on the body on Alice's car.  It's [Syd Winters](../World/syd.md), drinking and looking for someone to help her scratch an itch.  If Jimmy winds up going home with her, it will be wild and violent but she's unlikely to actually do any lasting injury to him.  She is likely to steal his liquor and raid his refrigerator before she goes though.
