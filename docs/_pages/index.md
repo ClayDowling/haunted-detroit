@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: posts
 permalink: /
 author: Clay Dowling
 ---
