@@ -1,6 +1,6 @@
 # haunted-detroit
 
-Storage repository for Haunted Detroit Campaign
+Storage repository for Haunted Detroit Campaign. https://claydowling.github.io/haunted-detroit/
 
 ## Making Releases
 
