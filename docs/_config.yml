@@ -1,10 +1,13 @@
 remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: neon
 
 locale: "en-US"
 title: "Haunted Detroit"
 title_separator: "-"
 description: "GURPS Adventures in a supernaturally awakened Detroit"
 name: &name "Clay Dowling"
+paginate: 5
+paginate_path: /page:num/
 
 author:
         name: *name
