@@ -6,8 +6,6 @@ title: "Haunted Detroit"
 title_separator: "-"
 description: "GURPS Adventures in a supernaturally awakened Detroit"
 name: &name "Clay Dowling"
-paginate: 5
-paginate_path: /page:num/
 
 author:
         name: *name
