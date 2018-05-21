@@ -18,6 +18,10 @@ The car was successfully recovered, after a high speed chase involving three
 mustangs to resanctify the vehicle.  With the help of Dagmar, the car was
 delivered to Shelby's garage in Allen Park.
 
+## The Ugly
+
+When Jimmy dropped Alice off to retrieve her truck, it was surrounded by police, and a man was pinned to this hood with a very long knife.  Jimmy drove her away to find a safe place to spend the night.
+
 ## Experience
 
 10 points earned by both Alice and Jimmie.
