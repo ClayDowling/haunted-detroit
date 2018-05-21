@@ -1,1 +1,35 @@
-theme: jekyll-theme-midnight
+remote_theme: "mmistakes/minimal-mistakes"
+
+locale: "en-US"
+title: "Haunted Detroit"
+title_separator: "-"
+description: "GURPS Adventures in a supernaturally awakened Detroit"
+name: &name "Clay Dowling"
+
+author:
+        name: *name
+        bio: "Game master, RPG fan. Supplier of whiskey to golden coated cats."
+        avatar: "images/clay-with-kronos.jpg"
+        location: "Dexter, MI"
+        email: "clay@lazarusid.com"
+        uri: "http://claydowling.com"
+
+
+defaults:
+        # _posts
+        - scope:
+                path: ""
+                type: posts
+          values:
+                  layout: single
+                  author_profile: true
+                  read_time: true
+                  share: true
+                  related: true
+        # _pages
+        - scope:
+                path: ""
+                type: pages
+          values:
+                layout: single
+                author_profile: true
