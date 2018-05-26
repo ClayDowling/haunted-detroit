@@ -4,6 +4,6 @@ main:
   - title: "About Us"
     url: "/about.html"
   - title: "Our World"
-    url: "/World/"
+    url: "/world/"
   - title: "Adventures"
-    url: "/Adventures/"
+    url: "/adventures/"

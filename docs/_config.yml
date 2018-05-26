@@ -21,6 +21,14 @@ minimal_mistakes_skin: neon
 include:
   - _pages
 
+collections:
+  adventures:
+    output: true
+    permalink: /:collection/:path
+  world:
+    output: true
+    permalink: /:collection/:path
+
 defaults:
         # _posts
         - scope:
@@ -39,3 +47,17 @@ defaults:
           values:
                 layout: single
                 author_profile: true
+        # _adventures
+        - scope:
+                path: ""
+                type: pages
+          values:
+                layout: single
+                author_profile: false
+        # _world
+        - scope:
+                path: ""
+                type: pages
+          values:
+                layout: single
+                author_profile: false
