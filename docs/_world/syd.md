@@ -6,7 +6,7 @@ Syd was addicted to heroin and coerced into prostitution by her "boyfriend."
 She managed to get away, but has struggled to stay clean.  Then she met
 Drennozeth in the City Club.
 
-![Syd Winters]({{% "/assets/images/syd.jpg" | absolute_url %}})
+![Syd Winters]({{ "/assets/images/syd.jpg" | absolute_url }})
 
 He tells her that he is a type of addiction counselor.  He doesn't have an
 office, he makes house calls.  He wants to see her in her home to see how
