@@ -2,7 +2,7 @@
 title: "Dagmar"
 ---
 
-![Dagmar](dagmar.jpg)
+![Dagmar](/assets/images/dagmar.jpg)
 
 Shelby's assistant, Dagmar is his Girl Friday to the outside world.  She is a statuesque blonde with an infectious laugh.  She is always fashionable and oozes sex.
 
