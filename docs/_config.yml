@@ -15,7 +15,11 @@ author:
         uri: "http://claydowling.com"
 
 search: true
+search_full_content: true
 minimal_mistakes_skin: neon
+
+include:
+  - _pages
 
 defaults:
         # _posts
