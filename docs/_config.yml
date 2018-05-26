@@ -24,10 +24,10 @@ include:
 collections:
   adventures:
     output: true
-    permalink: /:collection/:name.:output_ext
+    permalink: /:collection/:name:output_ext
   world:
     output: true
-    permalink: /:collection/:name
+    permalink: /:collection/:name:output_ext
 
 defaults:
         # _posts
