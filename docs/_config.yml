@@ -5,6 +5,7 @@ title: "Haunted Detroit"
 title_separator: "-"
 description: "GURPS Adventures in a supernaturally awakened Detroit"
 name: &name "Clay Dowling"
+base-url: "/haunted-detroit/"
 
 author:
         name: *name
@@ -50,14 +51,14 @@ defaults:
         # _adventures
         - scope:
                 path: ""
-                type: pages
+                type: adventures
           values:
                 layout: single
                 author_profile: false
         # _world
         - scope:
                 path: ""
-                type: pages
+                type: world
           values:
-                layout: posts
+                layout: single
                 author_profile: false
