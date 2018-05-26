@@ -37,13 +37,13 @@ They can expect several rounds of head start as the cultists try to follow them.
 
 ## Going to Ground
 
-The heros won't escape in a straight chase.  Hiding for a while is a solid plan.  A prayer to Shelby (which looks a lot like calling his garage) will summon the help of [Dagmar](../World/dagmar.md), his servant.
+The heros won't escape in a straight chase.  Hiding for a while is a solid plan.  A prayer to Shelby (which looks a lot like calling his garage) will summon the help of [Dagmar]({{ site.baseurl }}{% link _world/dagmar.md %}), his servant.
 
 Dagmar can help them up until they get the car to the garage, but not after, and Jimmy needs to be in the car when they get there.
 
 ## The Body On The Hood
 
-At some point it will be necessary to return to pick up Alice's car.  There will be a body on the hood of the car.  The corpse belonged to Orlando Swanson, a pimp who was killed by a former prostitute, [Syd Winters](../World/syd.md).  By the time Alice can get back, there are cops on the scene, but the body is still there.
+At some point it will be necessary to return to pick up Alice's car.  There will be a body on the hood of the car.  The corpse belonged to Orlando Swanson, a pimp who was killed by a former prostitute, [Syd Winters]({{ site.baseurl }}{% link _world/syd.md %}).  By the time Alice can get back, there are cops on the scene, but the body is still there.
 
 A little examination will reveal that he can't be removed just yet, because he's pinned to the hood by the very large knife through his throat.  There's blood everywhere.
 
@@ -55,4 +55,4 @@ The speed cultists will be aware that Jimmy took the Trans Am.  They will be sit
 
 ## Syd In The Club
 
-When at the City Club, Geordie will notice someone with the same taint as he smelled on the body on Alice's car.  It's [Syd Winters](../World/syd.md), drinking and looking for someone to help her scratch an itch.  If Jimmy winds up going home with her, it will be wild and violent but she's unlikely to actually do any lasting injury to him.  She is likely to steal his liquor and raid his refrigerator before she goes though.
+When at the City Club, Geordie will notice someone with the same taint as he smelled on the body on Alice's car.  It's [Syd Winters]({{ site.baseurl }}{% link _world/syd.md %}), drinking and looking for someone to help her scratch an itch.  If Jimmy winds up going home with her, it will be wild and violent but she's unlikely to actually do any lasting injury to him.  She is likely to steal his liquor and raid his refrigerator before she goes though.
