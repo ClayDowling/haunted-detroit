@@ -2,7 +2,7 @@
 title: "Speed for the Speed God"
 ---
 
-![1969 Pontiac Trans Am Convertible]({{ "/assets/images/1969_trans_am_400_convertible.jpg" }})
+![1969 Pontiac Trans Am Convertible]({{ "/assets/images/1969_trans_am_400_convertible.jpg" | absolute_url }})
 
 Shelby, the God of Speed, has a mission for Jimmie, to recover the sacred red 1969 Pontiac Trans Am Convertible which was stolen from him.  It is currently in the possession of Rodney Strange, leader of an apostate speed cult.  The car is sitting in his private showroom.
 
