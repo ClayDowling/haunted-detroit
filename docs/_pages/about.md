@@ -1,7 +1,7 @@
 ---
 layout: single
 author: Clay Dowling
-title: "About"
+title: "About Us"
 permalink: /about.html
 ---
 
