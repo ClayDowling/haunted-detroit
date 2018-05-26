@@ -1,9 +1,7 @@
 main:
-  - title: "Search"
-    url: "/search.html"
-  - title: "About Us"
-    url: "/about.html"
   - title: "Our World"
     url: "/world/"
   - title: "Adventures"
     url: "/adventures/"
+  - title: "About Us"
+    url: "/about.html"

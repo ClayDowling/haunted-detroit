@@ -1,4 +1,6 @@
-# Syd Winters
+---
+title: "Syd Winters"
+---
 
 Syd was addicted to heroin and coerced into prostitution by her "boyfriend."
 She managed to get away, but has struggled to stay clean.  Then she met

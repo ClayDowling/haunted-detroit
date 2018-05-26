@@ -1,4 +1,6 @@
-# Dagmar
+---
+title: "Dagmar"
+---
 
 ![Dagmar](dagmar.jpg)
 
