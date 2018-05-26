@@ -14,6 +14,8 @@ author:
         email: "clay@lazarusid.com"
         uri: "http://claydowling.com"
 
+search: true
+minimal_mistakes_skin: neon
 
 defaults:
         # _posts
