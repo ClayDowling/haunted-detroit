@@ -10,7 +10,7 @@ base-url: "/haunted-detroit/"
 author:
         name: *name
         bio: "Game master, RPG fan. Supplier of whiskey to golden coated cats."
-        avatar: "images/clay-with-kronos.jpg"
+        avatar: "/assets/images/clay-with-kronos.jpg"
         location: "Dexter, MI"
         email: "clay@lazarusid.com"
         uri: "http://claydowling.com"
