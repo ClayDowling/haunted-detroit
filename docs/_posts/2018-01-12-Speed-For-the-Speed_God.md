@@ -24,4 +24,4 @@ When Jimmy dropped Alice off to retrieve her truck, it was surrounded by police,
 
 ## Experience
 
-10 points earned by both Alice and Jimmie.
+15 points earned by both Alice and Jimmie.
