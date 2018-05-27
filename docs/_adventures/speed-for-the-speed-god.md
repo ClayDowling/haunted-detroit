@@ -55,4 +55,4 @@ The speed cultists will be aware that Jimmy took the Trans Am.  They will be sit
 
 ## Syd In The Club
 
-When at the City Club, Geordie will notice someone with the same taint as he smelled on the body on Alice's car.  It's [Syd Winters]({{ site.baseurl }}{% link _world/syd.md %}), drinking and looking for someone to help her scratch an itch.  If Jimmy winds up going home with her, it will be wild and violent but she's unlikely to actually do any lasting injury to him.  She is likely to steal his liquor and raid his refrigerator before she goes though.
+When at the City Club, Geordie will notice someone with the same taint as he smelled on the body on Alice's car.  It's [Syd Winters]({{ "_world/syd.md" | relative_url }}), drinking and looking for someone to help her scratch an itch.  If Jimmy winds up going home with her, it will be wild and violent but she's unlikely to actually do any lasting injury to him.  She is likely to steal his liquor and raid his refrigerator before she goes though.
