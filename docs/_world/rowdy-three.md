@@ -27,7 +27,7 @@ which function as a push up bra.  She also carries a pair of brass knuckles
 with a casting of an Econoline logo.  She loves to punch walls and any glass
 she can find with the knuckles.
 
-## Donovan, Son of Aer
+## Donovan, Son of Kronos
 
 Probably mid twenties, caucasian, with long hair and a beard braided into fine
 braids.  The braids are dyed alternately purple and green.  He wears motorcycle
@@ -37,6 +37,12 @@ jeweler's display strapped securely to his chest as a plastron.
 ## Du, Daughter of Gaia
 
 A young Chinese woman, wearing a conservative suit, and a massive purple
-codpiece decorated with a 5 pronged deer antler.
+codpiece decorated with a 5 pronged deer antler.  She carries a sixteen pound
+sledge hammer, the better for opening doors, walls and floors.
 
-## 
+## Matt, Son of Theia
+
+A middle aged man, he wears a best made of rat pelts, with the tails still
+attached.  He wears armor over his legs made from a 2003 red Chevy Impala and
+padded with the upholstery from the same.  He carries a front axle pinion,
+which weighs about six pounds and is superb for smashing stuff up.
