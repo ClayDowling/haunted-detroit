@@ -55,7 +55,8 @@ defaults:
                 type: adventures
           values:
                 layout: single
-                author_profile: false
+                author_profile: 
+                related: true
         # _world
         - scope:
                 path: ""
@@ -63,3 +64,4 @@ defaults:
           values:
                 layout: single
                 author_profile: false
+                related: true
