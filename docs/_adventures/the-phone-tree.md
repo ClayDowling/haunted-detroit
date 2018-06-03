@@ -48,4 +48,6 @@ truck.  The dead man is [Orlando Swanson]({{ site.base_url }}{% link
 Processing the car for evidence takes a day, and is then returned to her
 with one heck of a hole in the hood.
 
-## 
+## Syd Strikes Again
+
+Newton Chambers, someone who lives near Jimmie, is found crucified on the hood of Jimmie's car.  He was not especially well known to Jimmie, but general impression was that he was a bit skeezy.  He seems like the kind of guy whose dates might all be rentals.
