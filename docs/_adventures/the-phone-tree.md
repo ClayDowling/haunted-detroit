@@ -48,4 +48,37 @@ truck.  The dead man is [Orlando Swanson]({{ site.base_url }}{% link
 Processing the car for evidence takes a day, and is then returned to her
 with one heck of a hole in the hood.
 
-## 
+## Finding Levander
+
+The only hit for Levander tracks him to the ownership of an industrial
+property in Detroit (Joel Car Exhibition) via a shell company.  The
+location has an entrance on [Alpine](https://goo.gl/maps/zzFkHj1yua92),
+just north of Joy Road.  This definitely doesn't look like the kind of
+place where a guy like Levander would hang out.
+
+All of the entrances to the building appear to be boarded up or blocked
+by concrete barriers and fences.
+
+Magical analysis shows that the Gruman panel truck blocking the gate on
+Alpine is an illusion.
+
+Inside is a gate to Hell, guarded by a Servitor Demon.  The demon takes
+the form of a human asian woman, carrying a broadsword.  If she is
+killed another servitor, guarding the other side of the gate, will
+replace her within a few minutes.
+
+## The Telephone Tree
+
+Anyone observing the facility at night will see the Rowdy 3 pull up and
+seem to perform some kind of ritual on a telephone across the street.
+They will blare Insane Clown Possey, dance wildly, drink and splash booze
+bottles around a trash fire, and thoroughly tag up the pole, going so
+far as to climb to the top among the electric lines.
+
+Anyone observing the pole on following days will notice that it seems to
+be a cedar tree sprouting at the top.
+
+## Meeting Levander
+
+The next time the party is gathered together, Levander will sit down
+with them as if he were invited.  
